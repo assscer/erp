@@ -23,7 +23,7 @@ ERP-система на микросервисной архитектуре, г�
 1. **Склонируйте репозиторий:**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/assscer/erp.git
 cd erp-system
 docker compose up --build
 
