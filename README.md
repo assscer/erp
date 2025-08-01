@@ -24,7 +24,7 @@ ERP-система на микросервисной архитектуре, г�
 
 ```bash
 git clone https://github.com/assscer/erp.git
-cd erp-system
+cd erp
 docker compose up --build
 
 
